@@ -1,1 +1,1 @@
-# inflean-toby-spring-boot
+# 토비의 스프링 부트
